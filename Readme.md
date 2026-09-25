@@ -1,1 +1,1 @@
-Arquitetura de projeto  PAdrao Decorator por Arthur Monsores Engenharia de Software
+Arquitetura de projeto  Padrao Decorator por Arthur Monsores Engenharia de Software
